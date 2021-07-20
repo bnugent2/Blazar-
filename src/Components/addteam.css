@@ -1,0 +1,11 @@
+.window{
+        background-color: #fdfdfd;
+        border-radius: 5px;
+        color: #0e0e0e;
+        padding-top: 30px;
+        position: relative;
+        width: 50vw;
+        height: 50vh;
+        max-width: 100%;
+        text-align: center;
+}
