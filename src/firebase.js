@@ -5,7 +5,7 @@ import "firebase/firestore";
 
 // Configure Firebase.
 const config = {
-    apiKey: "AIzaSyCev-Z20CjDdAcSiw8G2dTNrPziG5b3r8M",
+    apiKey: "",
     authDomain: "marshal-2f803.firebaseapp.com",
     projectId: "marshal-2f803",
     storageBucket: "marshal-2f803.appspot.com",
